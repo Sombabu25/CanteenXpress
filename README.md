@@ -94,6 +94,7 @@ CanteenXpress/
 │ └── package.json
 │
 
+
 │── frontend/
 
 │ ├── public/ # Static files (QR codes, images, screenshots)
