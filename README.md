@@ -78,12 +78,19 @@ The system then updates the order status in real time for both students and cant
 ## Folder Structure
 CanteenXpress/
 │── backend/
+
 │ ├── config/ # DB connection & JWT config
+
 │ ├── controllers/ # API logic (auth, orders, menu)
+
 │ ├── middleware/ # Auth & admin checks
+
 │ ├── models/ # Mongoose schemas (User, Menu, Order, Table)
+
 │ ├── routes/ # Express routes
+
 │ ├── server.js # App entry point
+
 │ └── package.json
 │
 
