@@ -95,12 +95,19 @@ CanteenXpress/
 │
 
 │── frontend/
+
 │ ├── public/ # Static files (QR codes, images, screenshots)
+
 │ ├── src/
+
 │ │ ├── components/ # Reusable UI components (Navbar, OrderCard, etc.)
+
 │ │ ├── pages/ # Pages (Home, Checkout, Admin Dashboard)
+
 │ │ ├── App.js # Main React app
+
 │ │ ├── index.js # Entry point
+
 │ └── package.json
 │
 │── README.md
