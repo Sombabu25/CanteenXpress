@@ -86,6 +86,7 @@ CanteenXpress/
 │ ├── server.js # App entry point
 │ └── package.json
 │
+
 │── frontend/
 │ ├── public/ # Static files (QR codes, images, screenshots)
 │ ├── src/
